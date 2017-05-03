@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LB1",
-	"version" : "1.1.1",
+	"version" : "1.1.7",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/release_LB1",
-	"description" : "SDK1.1 R8_比瑞特小批量试产版本——修改上电颜色偏白光"
+	"description" : "修正开关灯偶尔闪烁，调整SAT值较高时的白光比例，调整灯光颜色变化时间，根据客户需求将原1.1.6版本号改为1.1.7"
 }
