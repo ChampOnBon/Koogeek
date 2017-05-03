@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1US",
-	"version" : "1.0.3",
+	"version" : "1.0.4",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1US/debug_O1US",
-	"description" : "基于Marvell SDK1.1版本 苹果送测"
+	"description" : "修改电量统计方式，避免时间未同步情况下对电量数据记录"
 }
