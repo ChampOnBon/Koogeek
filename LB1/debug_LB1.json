@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LB1",
-	"version" : "1.1.8",
+	"version" : "1.1.9",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/debug_LB1",
-	"description" : "修改重置判断时间，重置判断次数=4"
+	"description" : "缩短重置判断时间，重置判断次数=5，缩短重置计数清零时间，减少误判"
 }
