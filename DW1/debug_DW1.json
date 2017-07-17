@@ -1,6 +1,6 @@
 {
 	"model" : "DW1",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/DW1/debug_DW1.zip",
 	"description" : "This is the first version of the firmware wiht the following features:  1.The real-time detection of door switch.2.Records of recent 100 times contact sensor operation.3.Save contact sensor history data from today to 31days before."
 }
