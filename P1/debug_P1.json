@@ -2,5 +2,5 @@
 	"model" : "P1",
 	"version" : "1.2.10",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "Repair equipment disconnected problem "
+	"description" : "1.Has achieved significant improvements in HomeKit socket to upgrade.After the firmware upgrade as part of the equipment cannot be used, need long press socket button to restore factory Settings.Then please reconfigure enable HomeKit attachment, make it work properly.\n2.improve the stability of a wi-fi connection \n3.Improve the safety and stability of the system"
 }
