@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1",
-	"version" : "1.2.9",
+	"version" : "1.2.10",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "1. Significant improvements have been implemented in this HomeKit outlet upgrade. It is a MUST to restore to factory settings by long pressing the button after this firmware upgrade. Then please re-configure this HomeKit-enabled accessory to get it work normally.\n2.Improved system security and stability."
+	"description" : "Repair equipment disconnected problem "
 }
