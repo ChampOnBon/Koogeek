@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1EU",
-	"version" : "1.2.8",
+	"version" : "1.2.9",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1EU/debug_P1EU",
 	"description" : "将单插系列产品广播显示名称为 Koogeek-P1-XXXXXX "
 }
