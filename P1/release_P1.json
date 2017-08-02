@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1",
-	"version" : "1.2.10",
+	"version" : "1.2.9",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/release_P1",
 	"description" : "1. If an accessory fails to work after upgraded this firmware, please press and hold the power button of the accessory for 10 seconds to restore it to factory settings. Then re-pair to enable it to work normally. (Please note that restoring factory setttings will delete all settings and power consumption statistics.)\n2. Improved the firmware and its Wi-Fi connection stability.\n3. Improved the system security and stability. "
 }
