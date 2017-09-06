@@ -2,5 +2,5 @@
 	"model" : "P1",
 	"version" : "2.2.4",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "支持AWS Iot"
+	"description" : "1.支持AWS Iot与Koogeek配置AWS信息\n2.提供Android配网接口\n3.修复定时器不工作问题"
 }
