@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1US",
-	"version" : "1.1.7",
+	"version" : "2.2.1",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1US/debug_O1US",
-	"description" : "Marvell wifi补丁，改善网络连接"
+	"description" : "支持AWS-Iot，支持Android配置"
 }
