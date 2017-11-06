@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1US",
-	"version" : "2.2.6",
+	"version" : "2.2.4",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1US/debug_O1US",
 	"description" : "支持AWS-Iot，支持Android配置，修正LED闪灯"
 }
