@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LS1",
-	"version" : "2.2.4",
+	"version" : "2.2.5",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LS1/debug_LS1",
 	"description" : "增加支持Alexa"
 }
