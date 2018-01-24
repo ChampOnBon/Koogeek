@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1",
-	"version" : "2.2.22",
+	"version" : "2.2.23",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "Alexa版本"
+	"description" : "心跳120s"
 }
