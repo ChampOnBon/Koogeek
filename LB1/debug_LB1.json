@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LB1",
-	"version" : "1.2.2",
+	"version" : "1.2.11",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/debug_LB1",
-	"description" : "1.调整颜色变化\n2.修正启动颜色与开关灯颜色不一致问题\n3.调整默认颜色亮度减低后颜色偏冷问题"
+	"description" : "调整颜色算法"
 }
