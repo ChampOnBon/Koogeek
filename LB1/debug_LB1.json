@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LB1",
-	"version" : "2.2.1",
+	"version" : "2.2.2",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/debug_LB1",
-	"description" : "支持Alexa"
+	"description" : "修改hue范围"
 }
