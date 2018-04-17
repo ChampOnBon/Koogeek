@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LS1",
-	"version" : "1.1.6",
+	"version" : "2.2.14",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LS1/release_LS1",
-	"description" : "Homekit version"
+	"description" : "1. Support remotely controlling the device without any hub.\n2. Support using Amazon Alexa or the Google Assistant to control the device.\n3. Improved the security and stability of the system."
 }
