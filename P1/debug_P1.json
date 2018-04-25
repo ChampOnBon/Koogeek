@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1",
-	"version" : "2.2.23",
+	"version" : "2.2.25",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "心跳120s"
+	"description" : "增加 shadow key：sourceType"
 }
