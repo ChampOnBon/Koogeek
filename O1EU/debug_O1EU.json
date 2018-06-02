@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1EU",
 	"version" : "2.3.2",
-	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1EU/debug_O1EU",
-	"description" : "R10 + Alexa版本 支持QRcode配对"
+	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1EU/debug_O1EU_235",
+	"description" : "R10 + Alexa版本 支持QRcode配对, 修复AWS问题"
 }
