@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "P1",
-	"version" : "2.2.25",
+	"version" : "2.3.4",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "增加 shadow key：sourceType"
+	"description" : "修改AWS代码，修正功率统计bug"
 }
