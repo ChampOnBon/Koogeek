@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1US",
-	"version" : "2.3.9",
+	"version" : "2.3.10",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1US/debug_O1US",
-	"description" : "修改AWS代码，增加设备上电秒数统计，修改功耗记录bug"
+	"description" : "修改AWS代码，增加设备上电秒数统计，修改功耗记录bug，修正APP上显示本地时间不更新"
 }
