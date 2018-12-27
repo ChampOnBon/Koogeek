@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LS1",
-	"version" : "2.3.4",
+	"version" : "2.3.5",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LS1/debug_LS1",
 	"description" : "1.调整配网ssid和密码字符长度为64 \n2.在AWS shadow中添加 sourceTye key\n3.增加快捷键"
 }
