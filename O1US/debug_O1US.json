@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1US",
-	"version" : "2.3.14",
+	"version" : "2.3.16",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1US/debug_O1US",
 	"description" : "1.AWS连接调整\n2.网络丢失后死机问题修复\n3.支持最大64字符密码"
 }
