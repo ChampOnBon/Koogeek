@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "O1EU",
-	"version" : "1.0.0",
+	"version" : "2.3.16",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/O1EU/release_O1EU",
 	"description" : "1. Support controlling connected devices through Amazon Alexa now. If an accessory fails to work after upgraded this firmware, please press and hold the power button of the accessory for 10 seconds to restore it to factory settings. Then re-pair to enable it to work normally. (Please note that restoring factory setttings will delete all settings and power consumption statistics.)\n2.  Improved the system security and stability. "
 }
