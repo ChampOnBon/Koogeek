@@ -2,5 +2,5 @@
 	"model" : "P1",
 	"version" : "2.3.7",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/P1/debug_P1",
-	"description" : "修改AWS代码，增加设备上电秒数统计，修正功率统计bug，修正APP上显示本地时间不更新"
+	"description" : "1.AWS连接更新\n2.修复网络丢失后死机问题\n3.设置配网最大字符长度64"
 }
