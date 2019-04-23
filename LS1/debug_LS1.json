@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LS1",
-	"version" : "2.3.6",
-	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LS1/debug_LS1",
-	"description" : "1.调整配网ssid和密码字符长度为64 \n2.弱网或断网AWS连接失败修复\n3.删除快捷键功能"
+	"version" : "2.3.7",
+	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LS1/LS1_3.3.7",
+	"description" : "保存灯带开关与色彩信息，并在启动的时候配置硬件"
 }
