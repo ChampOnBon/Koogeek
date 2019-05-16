@@ -1,6 +1,6 @@
 ﻿{
 	"model" : "LB1",
-	"version" : "2.2.3",
-	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/debug_LB1_223_for_Alexa",
-	"description" : "Alexa 测试固件：添加 sourceType"
+	"version" : "2.3.2",
+	"url" : "https://raw.githubusercontent.com/ChampOnBon/Koogeek/master/LB1/debug_LB1",
+	"description" : "断电后保存颜色值，并在下次启动后显示"
 }
